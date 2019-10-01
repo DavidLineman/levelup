@@ -28,7 +28,7 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height: 1500px;
+  height: 600px;
 }
 
 h1, h2, h3, h4, h5, h6, .navbar {
@@ -52,4 +52,14 @@ h1, h2, h3, h4, h5, h6, .navbar {
   text-shadow: rgba(0, 0, 0, 0.95) 1px 1px;
 }
 
+.feature {
+  width: 100%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+body {
+  background: image_url('bg.png');
+  font-family: 'Palanquin Dark', sans-serif;
+}
 
